@@ -1,0 +1,7 @@
+C:\Users\home\source\repos\ButtonDelegate\ButtonDelegate\bin\Debug\ButtonDelegate.exe.config
+C:\Users\home\source\repos\ButtonDelegate\ButtonDelegate\bin\Debug\ButtonDelegate.exe
+C:\Users\home\source\repos\ButtonDelegate\ButtonDelegate\bin\Debug\ButtonDelegate.pdb
+C:\Users\home\source\repos\ButtonDelegate\ButtonDelegate\obj\Debug\ButtonDelegate.csprojAssemblyReference.cache
+C:\Users\home\source\repos\ButtonDelegate\ButtonDelegate\obj\Debug\ButtonDelegate.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\ButtonDelegate\ButtonDelegate\obj\Debug\ButtonDelegate.exe
+C:\Users\home\source\repos\ButtonDelegate\ButtonDelegate\obj\Debug\ButtonDelegate.pdb
